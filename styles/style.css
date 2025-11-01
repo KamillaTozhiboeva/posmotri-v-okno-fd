@@ -277,13 +277,13 @@ text-decoration: underline;
   height: fit-content;
 }
 
-.button:active {
-  background-color: #545050;
-}
-
 .button:hover {
   text-decoration: underline;
   cursor: pointer;
+}
+
+.button:active {
+  background-color: #545050;
 }
 
 .button:focus {
